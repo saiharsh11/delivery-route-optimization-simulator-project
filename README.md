@@ -10,6 +10,7 @@ A last-mile delivery route optimizer that implements and visualizes three classi
 ## Live Demo
 
 Deployed on Vercel — no setup needed, runs entirely in the browser.
+https://delivery-route-optimization-simulat.vercel.app/
 
 ## Features
 
