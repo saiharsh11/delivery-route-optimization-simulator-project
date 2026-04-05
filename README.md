@@ -86,6 +86,4 @@ lib/
     index.ts
 ```
 
-## License
 
-MIT
